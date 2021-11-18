@@ -20,7 +20,7 @@ export const enum ViewMode {
 }
 
 // Which top-level view should be displayed
-export const viewModeAtom = new Atom<ViewMode>(ViewMode.CHRONO_FLAME_CHART, 'viewMode')
+export const viewModeAtom = new Atom<ViewMode>(ViewMode.LEFT_HEAVY_FLAME_GRAPH, 'viewMode')
 
 // The top-level profile group from which most other data will be derived
 export const profileGroupAtom = new ProfileGroupAtom(null, 'profileGroup')
