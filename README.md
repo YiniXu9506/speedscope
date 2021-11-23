@@ -15,7 +15,7 @@ The result showing like this:
 ## Usage
 
 ```
-yarn add @xyn/speedscope
+yarn add @duorou_xu/speedscope
 # OR
-npm install @xyn/speedscope
+npm install @duorou_xu/speedscope
 ```
