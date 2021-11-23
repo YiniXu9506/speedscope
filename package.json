@@ -1,8 +1,8 @@
 {
   "name": "speedscope",
-  "version": "1.13.0",
+  "version": "1.13.1",
   "description": "",
-  "repository": "jlfwong/speedscope",
+  "repository": "yinixu9506/speedscope",
   "main": "index.js",
   "bin": {
     "speedscope": "./bin/cli.js"
