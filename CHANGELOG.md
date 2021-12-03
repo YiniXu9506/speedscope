@@ -1,3 +1,11 @@
+## [1.13.1] - 2021-11-23
+
+### Optimized
+
+- ignore samples with negative weights [[commit](https://github.com/YiniXu9506/speedscope/commit/4048d7c55eb6bc90c53cb8579533048eb8cdec2d)]
+- make stack name more concise [[commit](https://github.com/YiniXu9506/speedscope/commit/38b7f9ae393275ec34dc198a8c1127f30a6bfe69)]
+- set left_heavy as default view mode [[commit](https://github.com/YiniXu9506/speedscope/commit/213b9d7ec454929f8806a1d82d8cce68cb975ff7)]
+
 ## [1.13.0] - 2021-02-14
 
 ### Added
